@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Homeless Helper</string>
+    <string name="imgLogo">Logo</string>
+    <string name="imgCC">Wichita</string>
+
+    <string name="title_activity_main">Existing User or New User</string>
+    <string name="large_text">
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strUserFirstName">First Name</string>
+    <string name="strUserLastName">Last Name</string>
+    <string name="instructForOr">-OR-</string>
+    <string name="strUserID">ID</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnNewUser">New User</string>
+    <string name="btnFood">Food</string>
+    <string name="btnHealth">Health</string>
+    <string name="btnJobs">Jobs</string>
+    <string name="btnShelter">Shelter</string>
+    <string name="strNewFirstName">First Name</string>
+    <string name="strMiddleName">Middle Name</string>
+    <string name="strLastName">Last Name</string>
+    <string name="strSSN">SSN</string>
+    <string name="strDOB">Date of Birth</string>
+    <string name="txtGender">Gender</string>
+    <string name="radFemale">Female</string>
+    <string name="radMale">Male</string>
+
+    <string name="txtEthnicity">Ethinicity</string>
+    <string name="radAmerican_Indian">American Indian</string>
+    <string name="radAsian">Asian</string>
+    <string name="radBlack">Black</string>
+    <string name="radNative_HI_Other_Pacific">Native HI Other Pacific</string>
+    <string name="radWhite">White</string>
+    <string name="btnNext">Next</string>
+
+    <string name="strInstructionCheck">Check if you are any of the following:</string>
+    <string name="strDisability">Disabled</string>
+    <string name="strVeteran">Veteran</string>
+    <string name="strDomesticViolenceVictim">Victim of Domestic Violence</string>
+    <string name="strPregancy">Currently pregnant</string>
+
+    <string name="txtRelationshiptoHoH">Select your relationship to the Head of Household: </string>
+    <string-array name="txtGroupRelation">
+        <item>Self</item>
+        <item>Spouse</item>
+        <item>Sibling</item>
+        <item>Mother</item>
+        <item>Daughter</item>
+        <item>Father</item>
+        <item>Son</item>
+        <item>Friend</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="txtLastPermaAddress">What was your last permanent address?</string>
+    <string name="editLastPermaStreet">Street Address</string>
+    <string name="editLastPermaCity">City</string>
+    <string name="editLastPermaState">State</string>
+    <string name="editLastPermaZip">Zip</string>
+
+    <string name="btnViewMap">View Map</string>
+    <string name="txtShelterName">Shelter Name</string>
+    <string name="txtDistance">Walking Distance</string>
+    <string name="txtDirections">Directions</string>
+    <string name="btnReserve">Reserve</string>
+
+    <string name="strHousingStatus">blank</string>
+    <string name="edtPregnancyDueDate">Expected Due Date</string>
+    <string name="strResidencePriorLengthofStay">Prior Length</string>
+    <string name="strTimesHomelessPastThreeYears">How many times have you been homeless in the last three years?</string>
+    <string name="strMonthsHomelessPastThreeYears">How many months were you homeless in the last three years?</string>
+
+
+    <string name="btnFacilities">Facilities</string>
+
+    <string name="btnAdmin">Admin</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
